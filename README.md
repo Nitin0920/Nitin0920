@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA in Python**
 
-- 👯 I Worked as an intern for MasterSolis Infotech **MasterSolis**
+- 👯 Not much into github, but deifinitely got plenty in the tank!
 
 - 🤝 I’m looking for help with **Cyber Security**
 
